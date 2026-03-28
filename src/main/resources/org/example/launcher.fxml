@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.Region?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+
+<VBox xmlns="http://javafx.com/javafx"
+      xmlns:fx="http://javafx.com/fxml"
+      fx:controller="org.example.LauncherController"
+      style="-fx-background-color: #000000;">
+
+    <!-- 🔝 Кастомная панель -->
+    <HBox fx:id="topBar"
+          prefHeight="50"
+          style="-fx-background-color: #000000;"
+          alignment="CENTER_LEFT"
+          spacing="10">
+
+        <!-- Название -->
+        <Label text="  CraftCore Launcher"
+               style="-fx-text-fill: white; -fx-font-size: 20; -fx-font-weight: bold;"/>
+
+        <Region HBox.hgrow="ALWAYS"/>
+
+        <!-- Кнопки -->
+        <HBox spacing="5" alignment="CENTER_RIGHT">
+
+            <Button fx:id="minimizeBtn"
+                    text="—"
+                    style="-fx-background-color: transparent; -fx-text-fill: white; -fx-font-size: 20;"
+                    prefWidth="50" prefHeight="50"/>
+
+            <Button fx:id="closeBtn"
+                    text="✕"
+                    style="-fx-background-color: transparent; -fx-text-fill: white;  -fx-font-size: 20;"
+                    prefWidth="50" prefHeight="50"/>
+
+        </HBox>
+    </HBox>
+
+    <!-- Основная часть -->
+    <StackPane style="-fx-background-color: #121212;">
+        <Label text="Main Content"
+               style="-fx-text-fill: white; -fx-font-size: 20;"/>
+    </StackPane>
+
+</VBox>

@@ -2,13 +2,10 @@
 US
 
 # 🚀 CraftCore Launcher
----
 
 **CraftCore Launcher** is a custom desktop launcher built with Kotlin and JavaFX, featuring a fully customized user interface.
 
 This project was created as part of learning and improving skills in desktop application development.
-
----
 
 ## ✨ Features
 
@@ -19,21 +16,15 @@ This project was created as part of learning and improving skills in desktop app
 * 🔘 Custom window control buttons (minimize / close)
 * ⚡ Built with Kotlin + JavaFX
 
----
-
 ## 🛠️ Technologies
 
 * Kotlin
 * JavaFX
 * Gradle
 
----
-
 ## 📸 Preview
 
 > Screenshots will be added in the future 👀
-
----
 
 ## 📦 Run the project
 
@@ -43,8 +34,6 @@ This project was created as part of learning and improving skills in desktop app
 
 Or run it directly from your IDE (IntelliJ IDEA / Android Studio)
 
----
-
 ## 🎯 Purpose
 
 This project was created to:
@@ -53,8 +42,6 @@ This project was created to:
 * Practice working with JavaFX
 * Build a custom UI from scratch
 * Prepare for more complex application development
-
----
 
 ## 📄 License
 
@@ -66,13 +53,10 @@ See the LICENSE file for details.
 RU
 
 # 🚀 CraftCore Launcher
----
 
 **CraftCore Launcher** — это кастомный лаунчер с собственным UI, написанный на Kotlin с использованием JavaFX.
 
 Проект создан как часть обучения и развития навыков в разработке десктопных приложений.
-
----
 
 ## ✨ Особенности
 
@@ -83,21 +67,15 @@ RU
 * 🔘 Кастомные кнопки управления (свернуть / закрыть)
 * ⚡ Написан на Kotlin + JavaFX
 
----
-
 ## 🛠️ Технологии
 
 * Kotlin
 * JavaFX
 * Gradle
 
----
-
 ## 📸 Интерфейс
 
 > В будущем тут будут скриншоты 👀
-
----
 
 ## 📦 Запуск проекта
 
@@ -107,8 +85,6 @@ RU
 
 Или через IDE (IntelliJ IDEA / Android Studio)
 
----
-
 ## 🎯 Цель проекта
 
 Проект создан для:
@@ -117,8 +93,6 @@ RU
 * практики работы с JavaFX
 * создания собственного UI с нуля
 * подготовки к разработке более сложных приложений
-
----
 
 ## 📄 License
 

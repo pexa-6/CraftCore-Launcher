@@ -7,7 +7,7 @@
  * the Free Software Foundation, either version 3 of the License.
  *
  * See the LICENSE file for more details.
- */
+*/
 
 package org.example
 

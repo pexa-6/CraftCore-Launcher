@@ -1,9 +1,9 @@
 ---
 US
 
-# 🚀 CraftCore Launcher
+# 🎮 CraftCore Launcher
 
-**CraftCore Launcher** is a custom desktop launcher built with Kotlin and JavaFX, featuring a fully customized user interface.
+🎮 **CraftCore Launcher** is a custom desktop launcher built with Kotlin and JavaFX, featuring a fully customized user interface.
 
 This project was created as part of learning and improving skills in desktop application development.
 
@@ -52,9 +52,9 @@ See the LICENSE file for details.
 ---
 RU
 
-# 🚀 CraftCore Launcher
+# 🎮 CraftCore Launcher
 
-**CraftCore Launcher** — это кастомный лаунчер с собственным UI, написанный на Kotlin с использованием JavaFX.
+🎮 **CraftCore Launcher** — это кастомный лаунчер с собственным UI, написанный на Kotlin с использованием JavaFX.
 
 Проект создан как часть обучения и развития навыков в разработке десктопных приложений.
 
